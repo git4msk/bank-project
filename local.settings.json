@@ -1,0 +1,24 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=banksource;AccountKey=Na+Nh/UmkbeXbTwnN69p/I7Zv0wGgehRetVJgWUHXRmEZ5CLYoqIGnOQxVZt5GHvOfoP+H/A59EF+AStsaktdA==;EndpointSuffix=core.windows.net",
+
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    
+    "SERVICE_BUS_CONNECTION_STRING": "Endpoint=sb://bankprojectservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=+5VmbhWMJvDD8j/XN4wQdXzlti5ukuNUv+ASbCQ0yfc=",
+    "SERVICE_BUS_QUEUE_NAME": "ingest-queue",
+
+    
+    "COSMOS_CONNECTION_STRING": "AccountEndpoint=https://bank-cosmos.documents.azure.com:443/;AccountKey=NgZE72ur6biIvlzFX0h6wTkzkNrJRPNI264QpITmoHnANAJcCLLNPFtjRYZNEpIw8oFKDA8EjhL9ACDbK0K8Ag==;",
+    "COSMOS_DB_NAME": "bank-ods",
+    "ATM_CONTAINER": "atm",
+    "UPI_CONTAINER": "upi",
+    "CUSTOMER_CONTAINER": "customers",
+    "FRAUD_CONTAINER": "fraudalerts",
+
+    
+    "BLOB_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=banksource;AccountKey=Na+Nh/UmkbeXbTwnN69p/I7Zv0wGgehRetVJgWUHXRmEZ5CLYoqIGnOQxVZt5GHvOfoP+H/A59EF+AStsaktdA==;EndpointSuffix=core.windows.net"
+  }
+}
