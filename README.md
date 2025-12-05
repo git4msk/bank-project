@@ -1,7 +1,3 @@
-Here is the **cleaned README**, without images and without Cosmos DB content.
-
----
-
 # Banking Data Engineering Project – Azure Platform
 
 
@@ -76,6 +72,3 @@ The system now supports:
 
 Uploading any file into ADLS immediately results in a corresponding message being generated and delivered to the queue—confirming a successful pipeline implementation.
 
----
-
-If you want, I can expand this into a **GitHub-ready full project README** with sections like prerequisites, deployment commands, function code explanation, and architecture diagram (without images).
