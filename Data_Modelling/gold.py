@@ -1,7 +1,7 @@
 # Databricks notebook source
 spark.conf.set(
     "fs.azure.account.key.storage4bank.dfs.core.windows.net",
-    "5veT98sHoY3JAn+SMZCIVljfSp35Q3Zg2d65BCydKATr4i2UjKsHw59ERj7+GcLkgK8KLSQVV1W5+ASt+VXwpg=="
+    "<storage-connection-string>"
 )
 
 
